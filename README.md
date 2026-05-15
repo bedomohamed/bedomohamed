@@ -2,7 +2,7 @@
 
 # Hey, I'm Bedo
 
-### Full-Stack Engineer · Founder · 10x Builder
+### Full-stack engineer, founder, serial builder
 
 [![Portfolio](https://img.shields.io/badge/bedocode.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://bedocode.com)
 [![GitHub](https://img.shields.io/badge/300+_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bedomohamed?tab=repositories)
@@ -12,53 +12,49 @@
 
 ---
 
-## About Me
+## About me
 
-I'm Abdelrahman — most people call me Bedo. Software engineer with a CS degree from the University of Michigan, 2,000+ contributions this year, and 300+ repositories. I don't just write code — I ship products. Full-stack, from database schema to pixel-perfect UI, from payment integration to App Store deployment.
+I'm Abdelrahman, most people call me Bedo. CS degree from the University of Michigan, 2,000+ contributions this year, 300+ repos. I build and ship products end to end. Database, backend, frontend, billing, deployment, SEO, the works.
 
-I've built and launched multiple SaaS platforms from zero to production, handling everything: backend architecture, frontend design, DevOps, billing, SEO, and growth. When I say full-stack, I mean the whole business.
+I've launched multiple SaaS platforms from scratch to production solo. I handle the full stack in the literal sense: I'll set up the Postgres schema in the morning, wire up Stripe by lunch, and push the landing page live before dinner. Then do it again the next day for a different product.
 
-## What I'm Building
+## What I'm building
 
-### [Kinvo](https://kinvophone.com) — International Calling Platform
-Affordable international calls from any device — a modern Skype alternative. Call landlines and mobiles worldwide with competitive rates, calling cards, and call-from-browser functionality. Built as a monorepo with Next.js, Node.js, and real-time telephony integration.
+### [Kinvo](https://kinvophone.com)
+International calling platform. Cheap calls to landlines and mobiles worldwide, calling cards, call from your browser. Think a modern take on Skype. Monorepo with Next.js, Node.js, and telephony integrations.
 
-### [inkplume](https://inkplume.com) — SEO Content Automation
-Publishes a daily SEO-optimized article to your site on autopilot — researched, written, illustrated, and published. Replaces 5+ tools (keyword research, AI writer, image generator, CMS publisher, backlink outreach) with a single workflow. Includes a P2P backlink exchange network. Multi-language support for 150+ languages.
+### [inkplume](https://inkplume.com)
+SEO content on autopilot. It publishes a daily article to your site, fully researched, written, illustrated, and posted. Also runs a P2P backlink exchange network so sites grow each other's authority passively. Supports 150+ languages.
 
-### [Revio](https://revio.app) — Digital Loyalty for SMB Merchants
-Digital loyalty SaaS for the MENA region. Merchants create stamp/points/discount programs, customers add passes to Apple Wallet and Google Wallet, staff scan QR codes to track visits. Full platform with analytics, push notifications, staff management, and Stripe billing. 877 backend tests, 217 frontend tests, full E2E coverage.
+### [Revio](https://revio.app)
+Digital loyalty SaaS for SMB merchants in the MENA region. Stamp cards, points, discounts. Customers add passes to Apple Wallet or Google Wallet, staff scan QR codes to track visits. Has analytics, push notifications, staff management, Stripe billing. 877 backend tests, 217 frontend tests, E2E with Playwright.
 
-### [GlitchFi](https://glitchfi.com) — DeFi Platform
-Decentralized finance platform built during the Web3 wave.
+### [GlitchFi](https://glitchfi.com)
+MVP agency. We take your idea from zero to a working product, fast.
 
-## Tech Stack
+### [SkylineDooh](https://skylinedooh.com)
+Billboard marketplace. Find and book outdoor advertising space.
+
+## Tech
 
 ```
-Frontend    TypeScript · React · Next.js · Tailwind CSS · Radix UI
-Backend     Node.js · Express · PostgreSQL · Prisma · Redis · BullMQ
-Mobile      Flutter · Dart · Apple Wallet · Google Wallet
-AI/ML       Python · LLM Integrations · Autonomous Agents
-DevOps      AWS · Docker · Nginx · CI/CD · Vercel
+Languages       TypeScript, Python, Dart
+Frontend        React, Next.js, Tailwind CSS, Radix UI
+Backend         Node.js, Express, FastAPI, PostgreSQL, Supabase, Prisma, Redis, BullMQ
+Mobile          Flutter, Apple Wallet, Google Wallet
+AI              LLM integrations, autonomous agents
+Hosting         Vercel, Render, AWS, Docker, Nginx
 ```
 
-## The 10x Philosophy
+## How I work
 
-I don't debate architecture for weeks — I build it, ship it, and iterate. Every product above went from idea to production with a real user-facing frontend, tested backend, billing integration, and SEO. That's what 10x means to me: not writing 10x more code, but delivering 10x more value.
+I don't spend weeks planning. I build it, see what breaks, fix it, ship it. Every product listed above went from an empty directory to a live app with users and billing hooked up. That's why I have 300+ repos. Most of them are real projects, not tutorials.
 
-## GitHub Stats
+## GitHub stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bedomohamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bedomohamed&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
-<div align="center">
-
-**If it can be built, I'll build it. If it can't, I'll build it anyway.**
 
 </div>
