@@ -18,22 +18,24 @@ I'm Abdelrahman, most people call me Bedo. CS degree from the University of Mich
 
 I've launched multiple SaaS platforms from scratch to production solo. I handle the full stack in the literal sense: I'll set up the Postgres schema in the morning, wire up Stripe by lunch, and push the landing page live before dinner. Then do it again the next day for a different product.
 
+**At a glance:** 5 live products, 1,000+ automated tests across my projects, Apple Wallet + Google Wallet integrations, Stripe billing, multi-language support (150+ languages), E2E test suites with Playwright.
+
 ## What I'm building
 
 ### [Kinvo](https://kinvophone.com)
-International calling platform. Cheap calls to landlines and mobiles worldwide, calling cards, call from your browser. Think a modern take on Skype. Monorepo with Next.js, Node.js, and telephony integrations.
+International calling platform. Cheap calls to landlines and mobiles worldwide, calling cards, call from your browser. Think a modern take on Skype. Monorepo with Next.js, Node.js, and telephony integrations. Full SEO pipeline with programmatic pages for country codes, rates, and comparison keywords.
 
 ### [inkplume](https://inkplume.com)
-SEO content on autopilot. It publishes a daily article to your site, fully researched, written, illustrated, and posted. Also runs a P2P backlink exchange network so sites grow each other's authority passively. Supports 150+ languages.
+SEO content on autopilot. It publishes a daily article to your site, fully researched, written, illustrated, and posted. Also runs a P2P backlink exchange network so sites grow each other's authority passively. Supports 150+ languages. Built with Next.js, PostgreSQL, and a queue-based pipeline for content generation.
 
 ### [Revio](https://reviocard.com)
-Digital loyalty SaaS for SMB merchants in the MENA region. Stamp cards, points, discounts. Customers add passes to Apple Wallet or Google Wallet, staff scan QR codes to track visits. Has analytics, push notifications, staff management, Stripe billing. 877 backend tests, 217 frontend tests, E2E with Playwright.
+Digital loyalty SaaS for SMB merchants in the MENA region. Stamp cards, points, discounts. Customers add passes to Apple Wallet or Google Wallet, staff scan QR codes to track visits. Has analytics, push notifications, staff management, Stripe billing. 877 backend tests, 217 frontend tests, E2E with Playwright. Express + React + Prisma + BullMQ.
 
 ### [GlitchFi](https://glitchfi.com)
-MVP agency. We take your idea from zero to a working product, fast.
+MVP agency. We take your idea and turn it into a working product. I've used this to help non-technical founders go from a napkin sketch to a deployed app with auth, payments, and a real backend. TypeScript stack, fast turnaround.
 
 ### [SkylineDooh](https://skylinedooh.com)
-Billboard marketplace. Find and book outdoor advertising space.
+Billboard marketplace. Outdoor advertising owners list their inventory, advertisers browse and book space. Built the CRM, booking flow, and inventory management system. Next.js frontend, Node.js backend, PostgreSQL.
 
 ## Languages and tools
 
@@ -105,7 +107,11 @@ Billboard marketplace. Find and book outdoor advertising space.
 
 ## How I work
 
-I don't spend weeks planning. I build it, see what breaks, fix it, ship it. Every product listed above went from an empty directory to a live app with users and billing hooked up. That's why I have 300+ repos. Most of them are real projects, not tutorials.
+I write tests. Revio alone has 1,094 unit tests and 24 E2E spec files across 5 browser targets. I do this because I ship fast and I need to know when something breaks before users do.
+
+I work async and independently. Every product in the list above was built solo, end to end, no team. That includes the backend, frontend, database migrations, payment integration, deployment, DNS, SEO, and the marketing site. If something needs doing, I figure it out and do it.
+
+I use AI tooling heavily (Claude Code, Cursor, CrewAI) and I'm comfortable building with LLM APIs. I've integrated Claude into production pipelines for content generation and card design.
 
 ## GitHub stats
 
@@ -113,5 +119,25 @@ I don't spend weeks planning. I build it, see what breaks, fix it, ship it. Ever
 
 <img src="https://github-readme-stats.vercel.app/api?username=bedomohamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bedomohamed&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedomohamed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+</div>
+
+<details>
+  <summary>Activity graph</summary>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bedo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bedomohamed&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=FFFFFF&hide_border=true" /></a>
+</details>
+
+---
+
+<div align="center">
+
+Open to freelance, contract, and full-time opportunities. Reach me at abdelmon@umich.edu
+
+[![Email](https://img.shields.io/badge/Email-abdelmon@umich.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelmon@umich.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedomohamed/)
+[![Portfolio](https://img.shields.io/badge/bedocode.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://bedocode.com)
 
 </div>
