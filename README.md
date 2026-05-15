@@ -95,6 +95,14 @@ Billboard marketplace. Find and book outdoor advertising space.
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
 </p>
 
+### AI and agents
+
+<p>
+    <a href="#"><img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757.svg?logo=anthropic&logoColor=white"></a>
+    <a href="#"><img alt="Claude Agent SDK" src="https://img.shields.io/badge/Claude%20Agent%20SDK-D97757.svg?logo=anthropic&logoColor=white"></a>
+    <a href="#"><img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-FF4B4B.svg?logo=crewai&logoColor=white"></a>
+</p>
+
 ## How I work
 
 I don't spend weeks planning. I build it, see what breaks, fix it, ship it. Every product listed above went from an empty directory to a live app with users and billing hooked up. That's why I have 300+ repos. Most of them are real projects, not tutorials.
