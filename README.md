@@ -20,6 +20,18 @@ I've launched multiple SaaS platforms from scratch to production solo. I handle 
 
 **At a glance:** 5 live products, 1,000+ automated tests across my projects, Apple Wallet + Google Wallet integrations, Stripe billing, multi-language support (150+ languages), E2E test suites with Playwright.
 
+## Before I wrote code for a living
+
+I was the kid who competed in everything. Some highlights:
+
+- Won **Intel ISEF** (International Science and Engineering Fair)
+- Won **Intel MENA Science Fair**
+- Won **Taiwan International Science Fair**
+- Won **World Robot Olympiad**, MENA region
+- Competed in the **Pan-African Mathematics Olympiad**
+
+By the time I got to UMich for CS, I'd already spent years solving hard problems under pressure. That background is why I default to building instead of overthinking.
+
 ## What I'm building
 
 ### [Kinvo](https://kinvophone.com)
