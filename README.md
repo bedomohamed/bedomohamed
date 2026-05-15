@@ -26,7 +26,7 @@ International calling platform. Cheap calls to landlines and mobiles worldwide, 
 ### [inkplume](https://inkplume.com)
 SEO content on autopilot. It publishes a daily article to your site, fully researched, written, illustrated, and posted. Also runs a P2P backlink exchange network so sites grow each other's authority passively. Supports 150+ languages.
 
-### [Revio](https://revio.app)
+### [Revio](https://reviocard.com)
 Digital loyalty SaaS for SMB merchants in the MENA region. Stamp cards, points, discounts. Customers add passes to Apple Wallet or Google Wallet, staff scan QR codes to track visits. Has analytics, push notifications, staff management, Stripe billing. 877 backend tests, 217 frontend tests, E2E with Playwright.
 
 ### [GlitchFi](https://glitchfi.com)
